@@ -1,0 +1,23 @@
+h1 {
+    color: #00f;
+    text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: yellow;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.intro {
+  color: red
+}
